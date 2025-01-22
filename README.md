@@ -26,12 +26,18 @@ __Objectives__
 __Section classes__
 The __section__ classes are programming exercises. These come after each chapter instead of during the chapters as the __listing__ class does. `*` and `**` denotes heightened difficulty according to the course book editors.
 
+
 __Section__
-(TBA)
-
----
-
-__Comprehensive__
+- 18.1 [Compute Factorial](https://github.com/Scandiking/Liang-Chapter-18/blob/master/ComputeFactorial.java)
+- 18.2 [ComputeFibonacci](https://github.com/Scandiking/Liang-Chapter-18/blob/master/ComputeFibonacci.java)
+- 18.3 [RecursivePalindromeUsingSubstring](https://github.com/Scandiking/Liang-Chapter-18/blob/master/RecursivePalindromeUsingSubstring.java)
+- 18.4 [RecursivePalindrome](https://github.com/Scandiking/Liang-Chapter-18/blob/master/RecursivePalindrome.java)
+- 18.5 [RecursiveSelectionSort](https://github.com/Scandiking/Liang-Chapter-18/blob/master/RecursiveSelectionSort.java)
+- 18.6 [RecursiveBinarySearch](https://github.com/Scandiking/Liang-Chapter-18/blob/master/RecursiveBinarySearch.java)
+- 18.7 [DirectorySize](https://github.com/Scandiking/Liang-Chapter-18/blob/master/DirectorySize.java)
+- 18.8 [TowerOfHanoi](https://github.com/Scandiking/Liang-Chapter-18/blob/master/TowerOfHanoi.java)
+- 18.9 [SierpinskiTriangle](https://github.com/Scandiking/Liang-Chapter-18/blob/master/SierpinskiTriangle.java)
+- 18.10 [ComputeFactorialTailRecursion](https://github.com/Scandiking/Liang-Chapter-18/blob/master/ComputeFactorial.java)
 
 ---
 
