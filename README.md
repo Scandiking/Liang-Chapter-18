@@ -28,16 +28,16 @@ The __section__ classes are programming exercises. These come after each chapter
 
 
 __Section__
-- 18.1 [Compute Factorial](https://github.com/Scandiking/Liang-Chapter-18/blob/master/ComputeFactorial.java)
-- 18.2 [ComputeFibonacci](https://github.com/Scandiking/Liang-Chapter-18/blob/master/ComputeFibonacci.java)
-- 18.3 [RecursivePalindromeUsingSubstring](https://github.com/Scandiking/Liang-Chapter-18/blob/master/RecursivePalindromeUsingSubstring.java)
-- 18.4 [RecursivePalindrome](https://github.com/Scandiking/Liang-Chapter-18/blob/master/RecursivePalindrome.java)
-- 18.5 [RecursiveSelectionSort](https://github.com/Scandiking/Liang-Chapter-18/blob/master/RecursiveSelectionSort.java)
-- 18.6 [RecursiveBinarySearch](https://github.com/Scandiking/Liang-Chapter-18/blob/master/RecursiveBinarySearch.java)
-- 18.7 [DirectorySize](https://github.com/Scandiking/Liang-Chapter-18/blob/master/DirectorySize.java)
-- 18.8 [TowerOfHanoi](https://github.com/Scandiking/Liang-Chapter-18/blob/master/TowerOfHanoi.java)
-- 18.9 [SierpinskiTriangle](https://github.com/Scandiking/Liang-Chapter-18/blob/master/SierpinskiTriangle.java)
-- 18.10 [ComputeFactorialTailRecursion](https://github.com/Scandiking/Liang-Chapter-18/blob/master/ComputeFactorial.java)
+- 18.1 [Compute Factorial](https://github.com/Scandiking/Liang-Chapter-18/blob/master/src/ComputeFactorial.java)
+- 18.2 [ComputeFibonacci](https://github.com/Scandiking/Liang-Chapter-18/blob/master/src/ComputeFibonacci.java)
+- 18.3 [RecursivePalindromeUsingSubstring](https://github.com/Scandiking/Liang-Chapter-18/blob/master/src/RecursivePalindromeUsingSubstring.java)
+- 18.4 [RecursivePalindrome](https://github.com/Scandiking/Liang-Chapter-18/blob/master/src/RecursivePalindrome.java)
+- 18.5 [RecursiveSelectionSort](https://github.com/Scandiking/Liang-Chapter-18/blob/master/src/RecursiveSelectionSort.java)
+- 18.6 [RecursiveBinarySearch](https://github.com/Scandiking/Liang-Chapter-18/blob/master/src/RecursiveBinarySearch.java)
+- 18.7 [DirectorySize](https://github.com/Scandiking/Liang-Chapter-18/blob/master/src/DirectorySize.java)
+- 18.8 [TowerOfHanoi](https://github.com/Scandiking/Liang-Chapter-18/blob/master/src/TowerOfHanoi.java)
+- 18.9 [SierpinskiTriangle](https://github.com/Scandiking/Liang-Chapter-18/blob/master/src/SierpinskiTriangle.java)
+- 18.10 [ComputeFactorialTailRecursion](https://github.com/Scandiking/Liang-Chapter-18/blob/master/src/ComputeFactorial.java)
 
 ---
 
