@@ -42,6 +42,53 @@ __Section__
 ---
 
 __Listing__
-(TBA)
+###### Sections 18.2 and 18.3
+- 18.1 Identifying anagrams
+- 18.2 Fibonacci numbers
+- 18.3 Write a recursive method
+- 18.4 C
+- 18.5
+- 18.6
+- 18.7
+
+###### Section 18.4
+- 18.8
+- 18.9
+- 18.10
+- 18.11
+
+###### Section 18.5
+- 18.12
+- 18.13
+- 18.14
+- 18.15
+- 18.16
+- 18.17
+
+###### Sections 18.6 - 18.10
+- 18.18
+- 18.19
+- 18.20
+- 18.21
+- 18.22
+- 18.23
+- 18.24
+- 18.25
+- 18.26
+- 18.27
+- 18.28
+- 18.29
+- 18.30
+- 18.31
+- 18.32
+- 18.33
+- 18.34
+- 18.35
+- 18.36
+- 18.37
+- 18.38
+- 18.39
+
+---
 
 [^1]: __Liang, Y. D.__ (2020). _Introduction to Java Programming and Data Structures_ (12th ed.). Pearson Education.
